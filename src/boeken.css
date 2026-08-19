@@ -1,0 +1,66 @@
+
+.boekenTabel {
+  border-collapse: collapse;
+  border: 1px solid #ddd;
+  border-radius: 10 px;
+  width: 100%;
+  margin-left: 10px;
+  background-color: lightgray;
+}
+
+.boekenTabel td,
+.boekenTabel th {
+  text-align: left;
+  font-size: 12px;
+  padding: 2px 4px;
+  line-height: 1.1;
+}
+
+.boekentabel tr {
+  height: 22px;
+  
+}
+
+.filterFormulier {
+    display: flex;
+    flex-direction: column;   /* elke filterRij onder elkaar */
+    gap: 2px;                /* ruimte tussen de rijen */
+    padding: 10px;            /* wat ademruimte */
+    background-color:white; /* optioneel: lichte achtergrond */
+    border-radius: 6px;       /* optioneel: afgeronde hoeken */
+    width: 100%;             /* optioneel: vaste breedte */
+}
+
+.filterRij {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 2px;          /* ruimte tussen label en input */
+    margin-bottom: 8px; /* ruimte tussen de rijen */
+}
+
+.filterLabel {
+    text-align: left;
+    width: 100px;     /* vaste breedte zodat alles mooi uitlijnt */
+    font-weight: bold;
+    font-size: 12px;
+}
+
+.filterInputNationaliteit, .filterInputAuteurnaam {
+    width:200px
+}
+
+.filterInputJaartal {
+    width:80px
+}
+
+.filterRij select {
+    margin-left: 0;
+    width: 50px;     /* inputvelden mooi onder elkaar */
+}
+
+.aantalBoeken {
+    font-size: 12px;
+    font-weight: bold;
+    margin-left: 150px; /* ruimte tussen input en label */
+}

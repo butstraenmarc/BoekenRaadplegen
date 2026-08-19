@@ -1,0 +1,56 @@
+//Filters.jsx
+//Deze component bevat het formulier voor het filteren van de boekenlijst.
+
+export default function Filters({ AantalBoeken, AantalGefilterdeBoeken, filters, onFilterChange }) {
+    
+    function handleChange(e) {
+        const {name, value} = e.target;
+        
+        onFilterChange({
+            ...filters,
+           [name]: value
+        });
+    }
+
+    return (
+        <div className="filterFormulier">
+
+            <div className="filterRij">
+                <label className="filterLabel">Nationaliteit:</label>
+                <input className="filterInputNationaliteit"
+                    type="text"
+                    name="nationaliteit"
+                    //placeholder="Nationaliteit"
+                    value={filters.nationaliteit}
+                    onChange={handleChange}
+                />
+                <label className="aantalBoeken">Aantal boeken: {AantalBoeken}</label>
+            </div>
+
+            <div className="filterRij">
+                <label className="filterLabel">Auteurnaam:</label>
+                <input className="filterInputAuteurnaam"
+                    type="text"
+                    name="auteurnaam"
+                    //placeholder="Auteurnaam"
+                    value={filters.auteurnaam}
+                    onChange={handleChange}
+                />
+                <label className="aantalBoeken">Aantal gefilterde boeken: {AantalGefilterdeBoeken}</label>
+            </div>
+
+            <div className="filterRij">
+                <label className="filterLabel">Jaartal:</label>
+                <input className="filterInputJaartal"
+                    type="text"
+                    name="jaartal"
+                    //placeholder="Jaartal"
+                    value={filters.jaartal}
+                    onChange={handleChange}
+                />
+            </div>
+            
+        </div>
+    );
+}
+    
