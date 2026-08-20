@@ -28,8 +28,8 @@ export default function App () {
     const [filters, setFilters] = useState({
         nationaliteit: "",
         auteurnaam: "",
+        opmerkingen: "",
         jaartal: "",
-        mode: "AND"
     });
 
 
@@ -38,18 +38,16 @@ export default function App () {
             !filters.nationaliteit || boek.Nationaliteit.toLowerCase() === filters.nationaliteit.toLowerCase();
         const matchAuteur =
             !filters.auteurnaam || boek.Auteurnaam.toLowerCase() === filters.auteurnaam.toLowerCase();
+        const matchOpmerkingen =
+            !filters.opmerkingen || boek.Opmerkingen.toLowerCase() === filters.opmerkingen.toLowerCase();
         const matchJaar =
             !filters.jaartal || jaarOpzoeken(boek.Opmerkingen) === filters.jaartal;
-        return filters.mode === "AND"
-            ? matchNat && matchAuteur && matchJaar
-            : matchNat || matchAuteur || matchJaar;
+        return  matchNat && matchAuteur && matchJaar && matchOpmerkingen
     });
 
 
   return (
     <div>
-      {/* <p>Aantal boeken: {boeken.length}</p> */}
-      {/* <p>Aantal gefilterd: {gefilterd.length}</p> */}
       <VerbindingMaken onData={setBoeken} />
       <Filters AantalBoeken={boeken.length} AantalGefilterdeBoeken={gefilterd.length} filters={filters} onFilterChange = {setFilters} />
       <BoekenTabel boeken={gefilterd} />

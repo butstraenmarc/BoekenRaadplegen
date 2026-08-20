@@ -1,31 +1,6 @@
 //BoekenTabel.jsx
 //Deze component bevat de tabel waarin de boeken worden weergegeven.
 
-{/*
-export default function BoekenTabel({ boeken, filters }) {
-  if (!filters) return null;
-
-  const { nationaliteit, auteurnaam, jaartal, mode } = filters;
-
-  const gefilterd = boeken.filter(boek => {
-    const matchNat =
-      !nationaliteit ||
-      boek.Nationaliteit.toLowerCase().includes(nationaliteit.toLowerCase());
-
-    const matchAuteur =
-      !auteurnaam ||
-      boek.Auteurnaam.toLowerCase().includes(auteurnaam.toLowerCase());
-
-    const matchJaar =
-      !jaartal ||
-      boek.Opmerkingen.includes(jaartal);
-
-    return mode === "AND"
-      ? matchNat && matchAuteur && matchJaar
-      : matchNat || matchAuteur || matchJaar;
-  });
-*/}
-
 export default function BoekenTabel({ boeken }) {
   return (
     <table className="boekenTabel">

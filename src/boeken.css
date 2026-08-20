@@ -24,8 +24,8 @@
 .filterFormulier {
     display: flex;
     flex-direction: column;   /* elke filterRij onder elkaar */
-    gap: 2px;                /* ruimte tussen de rijen */
-    padding: 10px;            /* wat ademruimte */
+    gap: 1px;                /* ruimte tussen de rijen */
+    padding: 5px;            /* wat ademruimte */
     background-color:white; /* optioneel: lichte achtergrond */
     border-radius: 6px;       /* optioneel: afgeronde hoeken */
     width: 100%;             /* optioneel: vaste breedte */
@@ -35,7 +35,7 @@
     display: flex;
     flex-direction: row;
     align-items: center;
-    gap: 2px;          /* ruimte tussen label en input */
+    gap: 5px;          /* ruimte tussen label en input */
     margin-bottom: 8px; /* ruimte tussen de rijen */
 }
 
@@ -44,9 +44,10 @@
     width: 100px;     /* vaste breedte zodat alles mooi uitlijnt */
     font-weight: bold;
     font-size: 12px;
+    padding-left: 10px;    padding-right: 5px; /* ruimte tussen label en input */
 }
 
-.filterInputNationaliteit, .filterInputAuteurnaam {
+.filterInputNationaliteit, .filterInputAuteurnaam, .filterInputOpmerkingen{
     width:200px
 }
 

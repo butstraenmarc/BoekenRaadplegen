@@ -40,6 +40,17 @@ export default function Filters({ AantalBoeken, AantalGefilterdeBoeken, filters,
             </div>
 
             <div className="filterRij">
+                <label className="filterLabel">Opmerkingen:</label>
+                <input className="filterInputOpmerkingen"
+                    type="text"
+                    name="opmerkingen"
+                    //placeholder="opmerkingen"
+                    value={filters.opmerkingen}
+                    onChange={handleChange}
+                />
+            </div>
+
+            <div className="filterRij">
                 <label className="filterLabel">Jaartal:</label>
                 <input className="filterInputJaartal"
                     type="text"
