@@ -48,11 +48,11 @@
 }
 
 .filterInputNationaliteit, .filterInputAuteurnaam, .filterInputOpmerkingen{
-    width:200px
+    width:100px
 }
 
 .filterInputJaartal {
-    width:80px
+    width:50px
 }
 
 .filterRij select {
@@ -63,5 +63,5 @@
 .aantalBoeken {
     font-size: 12px;
     font-weight: bold;
-    margin-left: 150px; /* ruimte tussen input en label */
+    margin-left: 20px; /* ruimte tussen input en label */
 }
