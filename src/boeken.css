@@ -1,11 +1,11 @@
 
 .boekenTabel {
-  border-collapse: collapse;
-  border: 1px solid #ddd;
-  border-radius: 10 px;
+    border-collapse: collapse;
+  border: 1px solid black;
+  border-radius: 20 px;
   width: 100%;
   margin-left: 10px;
-  background-color: lightgray;
+  background-color: lightblue;
 }
 
 .boekenTabel td,
@@ -48,7 +48,7 @@
 }
 
 .filterInputNationaliteit, .filterInputAuteurnaam, .filterInputOpmerkingen{
-    width:100px
+    width:100px;
 }
 
 .filterInputJaartal {
