@@ -1,11 +1,11 @@
 
 .boekenTabel {
-    border-collapse: collapse;
+  border-collapse: collapse;
   border: 1px solid black;
   border-radius: 20 px;
   width: 100%;
   margin-left: 10px;
-  background-color: lightblue;
+  background-color: white;
 }
 
 .boekenTabel td,
@@ -41,7 +41,7 @@
 
 .filterLabel {
     text-align: left;
-    width: 100px;     /* vaste breedte zodat alles mooi uitlijnt */
+    width: 80px;     /* vaste breedte zodat alles mooi uitlijnt */
     font-weight: bold;
     font-size: 12px;
     padding-left: 10px;    padding-right: 5px; /* ruimte tussen label en input */

@@ -24,7 +24,7 @@ export default function Filters({ AantalBoeken, AantalGefilterdeBoeken, filters,
                     value={filters.nationaliteit}
                     onChange={handleChange}
                 />
-                <label className="aantalBoeken">Aantal boeken: {AantalBoeken}</label>
+                <label className="aantalBoeken">Aantal: {AantalBoeken}</label>
             </div>
 
             <div className="filterRij">
@@ -36,7 +36,7 @@ export default function Filters({ AantalBoeken, AantalGefilterdeBoeken, filters,
                     value={filters.auteurnaam}
                     onChange={handleChange}
                 />
-                <label className="aantalBoeken">Aantal gefilterde boeken: {AantalGefilterdeBoeken}</label>
+                <label className="aantalBoeken">Gefilterd: {AantalGefilterdeBoeken}</label>
             </div>
 
             <div className="filterRij">
