@@ -60,9 +60,7 @@ export default function Filters({ AantalBoeken, AantalGefilterdeBoeken, filters,
                     onChange={handleChange}
                 />
             </div>
-
-            <div className="filterRij">
-                <label className="filterLabel">Status:</label>
+            <div className="leesOpties">
                 <label>
                     <input
                         type="radio"

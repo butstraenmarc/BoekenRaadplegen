@@ -65,3 +65,25 @@
     font-weight: bold;
     margin-left: 20px; /* ruimte tussen input en label */
 }
+
+.leesOpties {
+    display: flex;
+    gap: 12px;
+}
+
+.leesOpties label {
+    font-size: 12px;
+    font-weight: bold;
+    display: inline-flex;
+    gap: 4px;
+}
+
+.leesOpties input[type="radio"] {
+    vertical-align: middle;   /* houdt het rondje stabiel */
+    margin-top: 0px;          /* subtiel naar beneden */
+}
+
+.leesOpties label span {
+    line-height: 12px;        /* exact gelijk aan font-size */
+    vertical-align: top;      /* tilt de tekst omhoog */
+}

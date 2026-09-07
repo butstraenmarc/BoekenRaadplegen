@@ -33,7 +33,7 @@ export default function App () {
         const matchAuteur =
             !filters.auteurnaam || boek.Auteurnaam.toLowerCase().slice(0, filters.auteurnaam.length) === filters.auteurnaam.toLowerCase();
         const matchOpmerkingen =
-            !filters.opmerkingen || boek.Opmerkingen.toLowerCase().slice(0, filters.opmerkingen.length) === filters.opmerkingen.toLowerCase();
+            !filters.opmerkingen || boek.Opmerkingen.toLowerCase().includes(filters.opmerkingen.toLowerCase());
         const matchJaar =
             !filters.jaartal || jaarOpzoeken(boek.Opmerkingen) === filters.jaartal;
         let matchGelezen = true; //standaard ALLE boeken
