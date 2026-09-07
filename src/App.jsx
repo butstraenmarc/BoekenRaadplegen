@@ -22,7 +22,9 @@ export default function App () {
         nationaliteit: "",
         auteurnaam: "",
         opmerkingen: "",
-        jaartal: "",
+        jaartal: "", 
+        status: "ALLE",
+        mode: "AND"
     });
      
     const gefilterd = [...boeken.filter(boek => {
@@ -34,7 +36,10 @@ export default function App () {
             !filters.opmerkingen || boek.Opmerkingen.toLowerCase().slice(0, filters.opmerkingen.length) === filters.opmerkingen.toLowerCase();
         const matchJaar =
             !filters.jaartal || jaarOpzoeken(boek.Opmerkingen) === filters.jaartal;
-        return  matchNat && matchAuteur && matchJaar && matchOpmerkingen
+        let matchGelezen = true; //standaard ALLE boeken
+        if (filters.status === "GELEZEN") matchGelezen = boek.Gelezen === -1 || boek.Gelezen === 1;
+        if (filters.status === "NIET GELEZEN") matchGelezen = boek.Gelezen === 0;
+        return  matchNat && matchAuteur && matchJaar && matchOpmerkingen && matchGelezen
     })];
 
   return (

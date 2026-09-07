@@ -60,7 +60,40 @@ export default function Filters({ AantalBoeken, AantalGefilterdeBoeken, filters,
                     onChange={handleChange}
                 />
             </div>
-            
+
+            <div className="filterRij">
+                <label className="filterLabel">Status:</label>
+                <label>
+                    <input
+                        type="radio"
+                        name="status"
+                        value="ALLE"
+                        checked={filters.status === "ALLE"}
+                        onChange={handleChange}
+                    />
+                    Alle boeken
+                </label>
+                <label>
+                    <input
+                        type="radio"
+                        name="status"
+                        value="GELEZEN"
+                        checked={filters.status === "GELEZEN"}
+                        onChange={handleChange}
+                    />
+                    Gelezen
+                </label>
+                <label>
+                    <input
+                        type="radio"
+                        name="status"
+                        value="NIET GELEZEN"
+                        checked={filters.status === "NIET GELEZEN"}
+                        onChange={handleChange}
+                    />
+                    Niet gelezen
+                </label>
+            </div>
         </div>
     );
 }
