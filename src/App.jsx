@@ -32,8 +32,14 @@ export default function App () {
             !filters.nationaliteit || boek.Nationaliteit.toLowerCase().slice(0, filters.nationaliteit.length) === filters.nationaliteit.toLowerCase();
         const matchAuteur =
             !filters.auteurnaam || boek.Auteurnaam.toLowerCase().slice(0, filters.auteurnaam.length) === filters.auteurnaam.toLowerCase();
-        const matchOpmerkingen =
+        
+        {/*
+                const matchOpmerkingen =
             !filters.opmerkingen || boek.Opmerkingen.toLowerCase().includes(filters.opmerkingen.toLowerCase());
+        */}
+        const zoek = filters.opmerkingen.toLowerCase() ?? "";
+        const escaped = zoek.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'); // escape regex special characters
+        const matchOpmerkingen = !zoek ||  new RegExp(`(^|[^0-9,])${escaped}`, "i").test(boek.Opmerkingen.toLowerCase());
         const matchJaar =
             !filters.jaartal || jaarOpzoeken(boek.Opmerkingen) === filters.jaartal;
         let matchGelezen = true; //standaard ALLE boeken
