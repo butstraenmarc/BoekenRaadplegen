@@ -5,7 +5,7 @@ import { useEffect } from "react";
 
 export default function VerbindingMaken({ onData }) {
   useEffect(() => {
-    fetch("http://marbutds216.synology.me/boeken/boeken.json")
+    fetch("http://marbutds216.synology.me/boeken/boeken.php")
       .then(res => res.json())
       .then(data => {
         const netjes = data.map(b => ({
