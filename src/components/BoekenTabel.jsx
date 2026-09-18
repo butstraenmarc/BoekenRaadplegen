@@ -14,6 +14,9 @@ export default function BoekenTabel({ boeken }) {
       </thead>
 
       <tbody>
+        {/*
+        {boeken.map((boek,index) => (    //we gebruiken de index als key omdat de boekenlijst niet verandert tijdens het renderen, alleen de inhoud van de boeken kan veranderen. Als we een unieke ID hadden, zouden we die gebruiken.
+        */}
         {boeken.map(boek => (
           <tr key={boek.AuteurNr}>
             <td>{boek.Auteurnaam}</td>

@@ -1,0 +1,50 @@
+//VerbindingMakenMetAPI.jsx
+//Deze component maakt de verbinding met de NAS en haalt de gevens op. 
+//De data wordt doorgegeven aan de parent component via de onData prop.
+import { useEffect } from "react";
+
+const API_URL = "http://marbutds216.synology.me/boeken/boeken.php";
+
+export default function VerbindingMakenMetAPI({ onData }) {
+
+  useEffect(() => {
+
+    async function ophalen() {
+      const password = prompt("Geef wachtwoord:");
+
+      if (!password) {
+        alert("Geen wachtwoord ingevoerd");
+        return;
+      }
+
+      try {
+        const res = await fetch(API_URL, {
+          headers: {
+            "X-Password": password
+          }
+        });
+
+        if (!res.ok) {
+          alert("Wachtwoord fout of geen toegang (status " + res.status + ")");
+          return;
+        }
+
+        const data = await res.json();
+
+        const netjes = data.map(b => ({
+          ...b,
+          Opmerkingen: typeof b.Opmerkingen === "string" ? b.Opmerkingen : ""
+        }));
+
+        onData(netjes);
+
+      } catch (err) {
+        console.error("Fout bij ophalen:", err);
+      }
+    }
+
+    ophalen();
+  }, [onData]);
+
+  return null;
+}

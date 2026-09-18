@@ -69,7 +69,7 @@ export default function Filters({ AantalBoeken, AantalGefilterdeBoeken, filters,
                         checked={filters.status === "ALLE"}
                         onChange={handleChange}
                     />
-                    Alle boeken
+                    <span>Alle boeken</span>
                 </label>
                 <label>
                     <input
@@ -79,7 +79,7 @@ export default function Filters({ AantalBoeken, AantalGefilterdeBoeken, filters,
                         checked={filters.status === "GELEZEN"}
                         onChange={handleChange}
                     />
-                    Gelezen
+                    <span>Gelezen</span>
                 </label>
                 <label>
                     <input
@@ -89,7 +89,7 @@ export default function Filters({ AantalBoeken, AantalGefilterdeBoeken, filters,
                         checked={filters.status === "NIET GELEZEN"}
                         onChange={handleChange}
                     />
-                    Niet gelezen
+                    <span>Niet gelezen</span>
                 </label>
             </div>
         </div>

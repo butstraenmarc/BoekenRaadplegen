@@ -4,12 +4,12 @@
 
 import { useState } from 'react'
 import './boeken.css'
-import VerbindingMaken from './components/VerbindingMaken'
+import VerbindingMaken from './components/VerbindingMaken' 
+//import VerbindingMakenMetAPI from './components/VerbindingMakenMetAPI'
 import BoekenTabel from './components/BoekenTabel'
 import Filters from './components/Filters'
 
 export default function App () {
-    
     function jaarOpzoeken(opmerkingen) {
         if (typeof opmerkingen !== "string") return null;
         const m = opmerkingen.match(/(19|20|25)\d{2}/g);
@@ -51,6 +51,7 @@ export default function App () {
   return (
     <div>
       <VerbindingMaken onData={setBoeken} />
+      {/*<VerbindingMakenMetAPI onData={setBoeken} />*/}
       <Filters AantalBoeken={boeken.length} AantalGefilterdeBoeken={gefilterd.length} filters={filters} onFilterChange = {setFilters} />
       <BoekenTabel key={JSON.stringify(gefilterd)} boeken={gefilterd} />
     </div>
