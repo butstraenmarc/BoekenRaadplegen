@@ -20,9 +20,8 @@ export default function VerbindingMaken({ onData }) {
         onData(netjes);
       })
   
-    })
       .catch(err => {console.error("Fout bij laden:", err)
-      }, [onData]);
-
+      })
+    }, [onData]);
   return null;
 }
