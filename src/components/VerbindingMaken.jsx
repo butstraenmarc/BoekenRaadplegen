@@ -5,7 +5,12 @@ import { useEffect } from "react";
 
 export default function VerbindingMaken({ onData }) {
   useEffect(() => {
+    {/*
+    //In het geval we de data lezen vanaf NAS, dan gebruiken we de fetch hieronder.
     fetch("https://marbutds216.synology.me/boeken/boeken.json")
+     */}
+    //In het geval we de data lezen vanaf Vercel, dan gebruiken we de fetch hieronder. 
+    fetch("/boeken.json") 
       .then(res => res.json())
       .then(data => {
         const netjes = data.map(b => ({
@@ -14,8 +19,9 @@ export default function VerbindingMaken({ onData }) {
         }));
         onData(netjes);
       })
-      .catch(err => console.error("Fout bij laden:", err));
-  }, [onData]);
-
+  
+      .catch(err => {console.error("Fout bij laden:", err)
+      })
+    }, [onData]);
   return null;
 }
