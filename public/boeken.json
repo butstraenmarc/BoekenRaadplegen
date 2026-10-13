@@ -843,6 +843,14 @@
     "AuteurNr": 598,
     "Auteurnaam": "Ammaniti Niccolo",
     "Nationaliteit": "Italiaans",
+    "Boektitel": "De bewaker",
+    "Gelezen": 0,
+    "Opmerkingen": "2026"
+  },
+  {
+    "AuteurNr": 598,
+    "Auteurnaam": "Ammaniti Niccolo",
+    "Nationaliteit": "Italiaans",
     "Boektitel": "Het intieme leven",
     "Gelezen": 0,
     "Opmerkingen": "2023"
@@ -902,6 +910,14 @@
     "Boektitel": "Idereen playmobil",
     "Gelezen": 0,
     "Opmerkingen": "De Morgen 03/03/2010"
+  },
+  {
+    "AuteurNr": 3334,
+    "Auteurnaam": "Anderson Gillian",
+    "Nationaliteit": "Amerikaans-Brits",
+    "Boektitel": "More",
+    "Gelezen": 0,
+    "Opmerkingen": "2026"
   },
   {
     "AuteurNr": 1219,
@@ -1368,14 +1384,6 @@
     "Opmerkingen": "De Morgen 02/06/2010 - misdaad"
   },
   {
-    "AuteurNr": 640,
-    "Auteurnaam": "Aspe Pieter",
-    "Nationaliteit": "Vlaams",
-    "Boektitel": "Op drift",
-    "Gelezen": 0,
-    "Opmerkingen": "Boekenbeurskrant 2007"
-  },
-  {
     "AuteurNr": 1968,
     "Auteurnaam": "Asscher Maarten",
     "Nationaliteit": "Nederlands",
@@ -1656,6 +1664,22 @@
     "Opmerkingen": "Debuutroman - De Morgen 12/01/2011"
   },
   {
+    "AuteurNr": 3324,
+    "Auteurnaam": "Avitan Lev",
+    "Nationaliteit": "Nederlands",
+    "Boektitel": "Tot \u00E9\u00E9n gemaakt",
+    "Gelezen": 0,
+    "Opmerkingen": "2026"
+  },
+  {
+    "AuteurNr": 3332,
+    "Auteurnaam": "Aviv Rachel",
+    "Nationaliteit": "Amerikaans",
+    "Boektitel": "Onverbreekbaar",
+    "Gelezen": 0,
+    "Opmerkingen": "2026"
+  },
+  {
     "AuteurNr": 2503,
     "Auteurnaam": "Aw Tash",
     "Nationaliteit": "Chinees",
@@ -1742,6 +1766,14 @@
     "Boektitel": "Een man die Ove heet",
     "Gelezen": 0,
     "Opmerkingen": "Lang Zullen We Lezen"
+  },
+  {
+    "AuteurNr": 1618,
+    "Auteurnaam": "Backman Frederik",
+    "Nationaliteit": "Amerikaans",
+    "Boektitel": "Mijn vrienden",
+    "Gelezen": 0,
+    "Opmerkingen": "2026"
   },
   {
     "AuteurNr": 1512,
@@ -1886,6 +1918,14 @@
     "Boektitel": "Philip Roth, de biografie",
     "Gelezen": 0,
     "Opmerkingen": "2021"
+  },
+  {
+    "AuteurNr": 3351,
+    "Auteurnaam": "Bailey Sarah",
+    "Nationaliteit": "Australisch",
+    "Boektitel": "De fotograaf",
+    "Gelezen": 0,
+    "Opmerkingen": "2026 - Thriller"
   },
   {
     "AuteurNr": 805,
@@ -2235,9 +2275,9 @@
     "AuteurNr": 1713,
     "Auteurnaam": "Banville John",
     "Nationaliteit": "Iers",
-    "Boektitel": "Sneeuw",
+    "Boektitel": "Venetiaase vespers",
     "Gelezen": 0,
-    "Opmerkingen": "2021"
+    "Opmerkingen": "2026"
   },
   {
     "AuteurNr": 871,
@@ -2372,6 +2412,14 @@
     "Auteurnaam": "Barclays Linwood",
     "Nationaliteit": "Canadees",
     "Boektitel": "Noodsein",
+    "Gelezen": 0,
+    "Opmerkingen": "2026"
+  },
+  {
+    "AuteurNr": 3361,
+    "Auteurnaam": "Barfoot Joan",
+    "Nationaliteit": "Canadees",
+    "Boektitel": "Vaste grond",
     "Gelezen": 0,
     "Opmerkingen": "2026"
   },
@@ -2875,6 +2923,14 @@
     "AuteurNr": 2781,
     "Auteurnaam": "Baume Sara",
     "Nationaliteit": "Iers",
+    "Boektitel": "De opening",
+    "Gelezen": 0,
+    "Opmerkingen": "2026"
+  },
+  {
+    "AuteurNr": 2781,
+    "Auteurnaam": "Baume Sara",
+    "Nationaliteit": "Iers",
     "Boektitel": "Handwerk",
     "Gelezen": 0,
     "Opmerkingen": "2023"
@@ -3353,7 +3409,15 @@
   },
   {
     "AuteurNr": 238,
-    "Auteurnaam": "Berckmann Jean Marie",
+    "Auteurnaam": "Berckmans Jean Marie",
+    "Nationaliteit": "Vlaams",
+    "Boektitel": "Barakstad",
+    "Gelezen": 0,
+    "Opmerkingen": "2026"
+  },
+  {
+    "AuteurNr": 238,
+    "Auteurnaam": "Berckmans Jean Marie",
     "Nationaliteit": "Vlaams",
     "Boektitel": "Caf\u00E9 de Raaf nog steeds gesloten",
     "Gelezen": 0,
@@ -3361,7 +3425,7 @@
   },
   {
     "AuteurNr": 238,
-    "Auteurnaam": "Berckmann Jean Marie",
+    "Auteurnaam": "Berckmans Jean Marie",
     "Nationaliteit": "Vlaams",
     "Boektitel": "Rock\u0026Roll met Frieda Vindevogel",
     "Gelezen": 0,
@@ -4635,6 +4699,14 @@
     "AuteurNr": 1504,
     "Auteurnaam": "Bontenakel Dimitri",
     "Nationaliteit": "Vlaams",
+    "Boektitel": "De eerste vrouw op de maan",
+    "Gelezen": 0,
+    "Opmerkingen": "2026"
+  },
+  {
+    "AuteurNr": 1504,
+    "Auteurnaam": "Bontenakel Dimitri",
+    "Nationaliteit": "Vlaams",
     "Boektitel": "Schaduw en vuur",
     "Gelezen": 0,
     "Opmerkingen": "Dystopische roman (2042 - 1982) - 2017"
@@ -5390,6 +5462,14 @@
     "Boektitel": "De verwording",
     "Gelezen": 1,
     "Opmerkingen": "1997"
+  },
+  {
+    "AuteurNr": 78,
+    "Auteurnaam": "Brijs Stefan",
+    "Nationaliteit": "Vlaams",
+    "Boektitel": "In goede en kwade dagen",
+    "Gelezen": 0,
+    "Opmerkingen": "2026"
   },
   {
     "AuteurNr": 78,
@@ -6488,6 +6568,14 @@
     "Opmerkingen": "2015 - 3*"
   },
   {
+    "AuteurNr": 3330,
+    "Auteurnaam": "Bussmann Nina",
+    "Nationaliteit": "Duits",
+    "Boektitel": "Drie weken in augustus",
+    "Gelezen": 0,
+    "Opmerkingen": "2026"
+  },
+  {
     "AuteurNr": 737,
     "Auteurnaam": "Buthler \u0026 \u00D6hrlund",
     "Nationaliteit": "Deens",
@@ -6987,9 +7075,17 @@
     "AuteurNr": 321,
     "Auteurnaam": "Carr\u00E8re Emmanuel",
     "Nationaliteit": "Frans",
+    "Boektitel": "Andere levens dan het mijne",
+    "Gelezen": 0,
+    "Opmerkingen": "2009"
+  },
+  {
+    "AuteurNr": 321,
+    "Auteurnaam": "Carr\u00E8re Emmanuel",
+    "Nationaliteit": "Frans",
     "Boektitel": "De sneeuwklas",
     "Gelezen": 0,
-    "Opmerkingen": "De Morgen 12/02/2009"
+    "Opmerkingen": "1995"
   },
   {
     "AuteurNr": 321,
@@ -7005,7 +7101,7 @@
     "Nationaliteit": "Frans",
     "Boektitel": "Een Russische roman",
     "Gelezen": 0,
-    "Opmerkingen": "De Morgen 12/02/2009 - bestseller"
+    "Opmerkingen": "2007 - Bestseller"
   },
   {
     "AuteurNr": 321,
@@ -7029,7 +7125,7 @@
     "Nationaliteit": "Frans",
     "Boektitel": "Limonov",
     "Gelezen": 0,
-    "Opmerkingen": "Boek van het jaar 2012 - medewerker GVA - bestseller"
+    "Opmerkingen": "2011"
   },
   {
     "AuteurNr": 321,
@@ -7037,7 +7133,15 @@
     "Nationaliteit": "Frans",
     "Boektitel": "Op drift",
     "Gelezen": 0,
-    "Opmerkingen": "De Morgen 12/02/2009"
+    "Opmerkingen": "1986"
+  },
+  {
+    "AuteurNr": 321,
+    "Auteurnaam": "Carr\u00E8re Emmanuel",
+    "Nationaliteit": "Frans",
+    "Boektitel": "Op drift",
+    "Gelezen": 0,
+    "Opmerkingen": "1986"
   },
   {
     "AuteurNr": 321,
@@ -7160,6 +7264,14 @@
     "Opmerkingen": {}
   },
   {
+    "AuteurNr": 743,
+    "Auteurnaam": "Carter Chris",
+    "Nationaliteit": "Italiaans",
+    "Boektitel": "De schuilplaats",
+    "Gelezen": 0,
+    "Opmerkingen": "2026 - Thriller"
+  },
+  {
     "AuteurNr": 1613,
     "Auteurnaam": "Carter Hett Benhjamin",
     "Nationaliteit": "Amerikaans",
@@ -7198,6 +7310,14 @@
     "Boektitel": "De jacht",
     "Gelezen": 0,
     "Opmerkingen": "2015 - 4*"
+  },
+  {
+    "AuteurNr": 3343,
+    "Auteurnaam": "Cash Madeline",
+    "Nationaliteit": "Amerikaans",
+    "Boektitel": "Verloren schaapjes",
+    "Gelezen": 0,
+    "Opmerkingen": "2026"
   },
   {
     "AuteurNr": 1247,
@@ -9107,6 +9227,14 @@
     "AuteurNr": 2511,
     "Auteurnaam": "Cosby S.A.",
     "Nationaliteit": "Amerikaans",
+    "Boektitel": "Mijn duisters gebed",
+    "Gelezen": 0,
+    "Opmerkingen": "2026 - Thriller"
+  },
+  {
+    "AuteurNr": 2511,
+    "Auteurnaam": "Cosby S.A.",
+    "Nationaliteit": "Amerikaans",
     "Boektitel": "Vlijmscherpe tranen",
     "Gelezen": -1,
     "Opmerkingen": "2023"
@@ -10112,6 +10240,14 @@
     "Opmerkingen": "2020 - De Morgen 05/09/2020"
   },
   {
+    "AuteurNr": 1174,
+    "Auteurnaam": "De Boer Merijn",
+    "Nationaliteit": "Nederlands",
+    "Boektitel": "Rollende stenen",
+    "Gelezen": 0,
+    "Opmerkingen": "2026"
+  },
+  {
     "AuteurNr": 2180,
     "Auteurnaam": "De Boer Sanne",
     "Nationaliteit": "Nederlands",
@@ -10944,6 +11080,14 @@
     "Opmerkingen": "2024"
   },
   {
+    "AuteurNr": 3354,
+    "Auteurnaam": "De La Motte Anders",
+    "Nationaliteit": "Zweeds",
+    "Boektitel": "Het bos van roest",
+    "Gelezen": 0,
+    "Opmerkingen": "2026 - Horror"
+  },
+  {
     "AuteurNr": 2624,
     "Auteurnaam": "De La Parra Nina",
     "Nationaliteit": "Nederlands",
@@ -11382,6 +11526,14 @@
     "Boektitel": "De hel van Azovstal",
     "Gelezen": 0,
     "Opmerkingen": "2025 - 82 dagen Oekra\u00EFens verzet in Marioepol"
+  },
+  {
+    "AuteurNr": 3323,
+    "Auteurnaam": "De Roo Victor",
+    "Nationaliteit": "Vlaams",
+    "Boektitel": "Heil",
+    "Gelezen": 0,
+    "Opmerkingen": "2026 - Debuut"
   },
   {
     "AuteurNr": 834,
@@ -12120,6 +12272,14 @@
     "Opmerkingen": "2016 - debuut"
   },
   {
+    "AuteurNr": 3347,
+    "Auteurnaam": "Declerck Robert",
+    "Nationaliteit": "Vlaams",
+    "Boektitel": "Crimineel Gent",
+    "Gelezen": 0,
+    "Opmerkingen": "2026 - Waargebeurd"
+  },
+  {
     "AuteurNr": 1303,
     "Auteurnaam": "Declercq Hans",
     "Nationaliteit": "Vlaams",
@@ -12534,6 +12694,14 @@
     "Boektitel": "Prins Albert. Prelude van een communist",
     "Gelezen": 0,
     "Opmerkingen": "2025"
+  },
+  {
+    "AuteurNr": 3335,
+    "Auteurnaam": "Dera Jeroen",
+    "Nationaliteit": "Nederlands",
+    "Boektitel": "De spagaat",
+    "Gelezen": 0,
+    "Opmerkingen": "2026"
   },
   {
     "AuteurNr": 2392,
@@ -13320,6 +13488,14 @@
     "Opmerkingen": "2021"
   },
   {
+    "AuteurNr": 3353,
+    "Auteurnaam": "Douglas Claire",
+    "Nationaliteit": "Brits",
+    "Boektitel": "De nieuwe mensen van hiernaast",
+    "Gelezen": 0,
+    "Opmerkingen": "2026 - Thriller"
+  },
+  {
     "AuteurNr": 2844,
     "Auteurnaam": "Dourado Autran",
     "Nationaliteit": "Braziliaans",
@@ -13782,6 +13958,14 @@
     "Boektitel": "Vijftig tinten vrij",
     "Gelezen": 0,
     "Opmerkingen": "2012"
+  },
+  {
+    "AuteurNr": 3341,
+    "Auteurnaam": "Eakin Emily",
+    "Nationaliteit": "Amerikaans",
+    "Boektitel": "Mijn leven in theorie",
+    "Gelezen": 0,
+    "Opmerkingen": "2026"
   },
   {
     "AuteurNr": 1204,
@@ -14963,6 +15147,14 @@
     "AuteurNr": 363,
     "Auteurnaam": "Erpenbeck Jenny",
     "Nationaliteit": "Duits",
+    "Boektitel": "Dingen die verdwijnen",
+    "Gelezen": 0,
+    "Opmerkingen": "2026"
+  },
+  {
+    "AuteurNr": 363,
+    "Auteurnaam": "Erpenbeck Jenny",
+    "Nationaliteit": "Duits",
     "Boektitel": "Een handvol sneeuw",
     "Gelezen": 0,
     "Opmerkingen": "2014"
@@ -15131,7 +15323,7 @@
     "AuteurNr": 3243,
     "Auteurnaam": "Evans Virginia",
     "Nationaliteit": "Amerikaans",
-    "Boektitel": "De correspondentie",
+    "Boektitel": "De correspondente",
     "Gelezen": 0,
     "Opmerkingen": "2026"
   },
@@ -15926,6 +16118,14 @@
     "Boektitel": "Twee zussen",
     "Gelezen": 0,
     "Opmerkingen": "2019"
+  },
+  {
+    "AuteurNr": 3349,
+    "Auteurnaam": "Foley Lucy",
+    "Nationaliteit": "Brits",
+    "Boektitel": "Moord in het Grand Alpine Hotel",
+    "Gelezen": 0,
+    "Opmerkingen": "2026 - Thriller"
   },
   {
     "AuteurNr": 847,
@@ -17232,6 +17432,14 @@
     "Opmerkingen": "2023 - Thriller"
   },
   {
+    "AuteurNr": 3326,
+    "Auteurnaam": "Gershkovich Evan",
+    "Nationaliteit": "Amerikaans",
+    "Boektitel": "Dit vervloekte prachtige land",
+    "Gelezen": 0,
+    "Opmerkingen": "2026"
+  },
+  {
     "AuteurNr": 226,
     "Auteurnaam": "Gerstenberg Franziska",
     "Nationaliteit": "Duits",
@@ -17366,6 +17574,14 @@
     "Boektitel": "De dijkgraven",
     "Gelezen": 0,
     "Opmerkingen": ""
+  },
+  {
+    "AuteurNr": 3346,
+    "Auteurnaam": "Geysen Romy",
+    "Nationaliteit": "Vlaams",
+    "Boektitel": "Willy - Bekentenissen van een polycrimineel",
+    "Gelezen": 0,
+    "Opmerkingen": "2026 - Waargebeurd"
   },
   {
     "AuteurNr": 2738,
@@ -18883,6 +19099,14 @@
     "AuteurNr": 3086,
     "Auteurnaam": "Guerriero Leila",
     "Nationaliteit": "Argentijns",
+    "Boektitel": "Aan de andere kant van de lijn",
+    "Gelezen": 0,
+    "Opmerkingen": "2026"
+  },
+  {
+    "AuteurNr": 3086,
+    "Auteurnaam": "Guerriero Leila",
+    "Nationaliteit": "Argentijns",
     "Boektitel": "Een schim aan de Costa Brava",
     "Gelezen": 0,
     "Opmerkingen": "2025 - Over Truman Capote"
@@ -19438,6 +19662,14 @@
     "Boektitel": "Het moois dat we delen",
     "Gelezen": 0,
     "Opmerkingen": "2019"
+  },
+  {
+    "AuteurNr": 1239,
+    "Auteurnaam": "Hamou Ish A\u00EFt",
+    "Nationaliteit": "Belgisch",
+    "Boektitel": "Wachten op Noah",
+    "Gelezen": 0,
+    "Opmerkingen": "2026"
   },
   {
     "AuteurNr": 273,
@@ -21400,6 +21632,14 @@
     "Opmerkingen": "De Morgen 06/05/2009"
   },
   {
+    "AuteurNr": 3348,
+    "Auteurnaam": "Hjorth Michael",
+    "Nationaliteit": "Zweeds",
+    "Boektitel": "De slapende vulkaan",
+    "Gelezen": 0,
+    "Opmerkingen": "2026 - Thriller"
+  },
+  {
     "AuteurNr": 2846,
     "Auteurnaam": "Hjorth Vigdis",
     "Nationaliteit": "Noors",
@@ -22344,6 +22584,14 @@
     "Opmerkingen": "De Morgen 21/01/2009"
   },
   {
+    "AuteurNr": 3344,
+    "Auteurnaam": "Hundevadt Kim",
+    "Nationaliteit": "Deens",
+    "Boektitel": "Operatie Porcus",
+    "Gelezen": 0,
+    "Opmerkingen": "2026 - Thriller"
+  },
+  {
     "AuteurNr": 1722,
     "Auteurnaam": "Hunt Nick",
     "Nationaliteit": "Brits",
@@ -22528,6 +22776,14 @@
     "Opmerkingen": "Verfilming van Body of Lies door Ridley Scott"
   },
   {
+    "AuteurNr": 3355,
+    "Auteurnaam": "Ihli Noelle W.",
+    "Nationaliteit": "Amerikaans",
+    "Boektitel": "Vraag naar Andrea",
+    "Gelezen": 0,
+    "Opmerkingen": "2026 - Horror"
+  },
+  {
     "AuteurNr": 2793,
     "Auteurnaam": "Ikstena Nora",
     "Nationaliteit": "Iers",
@@ -22542,6 +22798,14 @@
     "Boektitel": "1913",
     "Gelezen": 0,
     "Opmerkingen": "De Morgen 15/05/2013"
+  },
+  {
+    "AuteurNr": 888,
+    "Auteurnaam": "Illies Florian",
+    "Nationaliteit": "Duits",
+    "Boektitel": "Als de zon ondergaat",
+    "Gelezen": 0,
+    "Opmerkingen": "2026"
   },
   {
     "AuteurNr": 888,
@@ -23291,6 +23555,14 @@
     "AuteurNr": 35,
     "Auteurnaam": "Japin Arthur",
     "Nationaliteit": "Nederlands",
+    "Boektitel": "Lord M.",
+    "Gelezen": 0,
+    "Opmerkingen": "2026"
+  },
+  {
+    "AuteurNr": 35,
+    "Auteurnaam": "Japin Arthur",
+    "Nationaliteit": "Nederlands",
     "Boektitel": "Mrs. Degas",
     "Gelezen": 0,
     "Opmerkingen": "2020 - Lang Zullen We Lezen"
@@ -23424,6 +23696,14 @@
     "Opmerkingen": "1985"
   },
   {
+    "AuteurNr": 3337,
+    "Auteurnaam": "Jemisin N.K.",
+    "Nationaliteit": "Amerikaans",
+    "Boektitel": "Het vijfde seizoen",
+    "Gelezen": 0,
+    "Opmerkingen": "2015 - Fantasy"
+  },
+  {
     "AuteurNr": 2685,
     "Auteurnaam": "Jennings Karen",
     "Nationaliteit": "Zuid-Afrikaans",
@@ -23478,6 +23758,14 @@
     "Boektitel": "Het weeskind",
     "Gelezen": 0,
     "Opmerkingen": "2019"
+  },
+  {
+    "AuteurNr": 3338,
+    "Auteurnaam": "Jensen Stine",
+    "Nationaliteit": "Deens-Nederlands",
+    "Boektitel": "We moeten het over Groenland hebben",
+    "Gelezen": 0,
+    "Opmerkingen": "2026"
   },
   {
     "AuteurNr": 606,
@@ -24166,6 +24454,14 @@
     "Boektitel": "Ons onfeilbare denken",
     "Gelezen": 0,
     "Opmerkingen": "2011 - President Obama"
+  },
+  {
+    "AuteurNr": 3322,
+    "Auteurnaam": "Kaiser-M\u00FChlecker",
+    "Nationaliteit": "Oostenrijks",
+    "Boektitel": "Brandende velden",
+    "Gelezen": 0,
+    "Opmerkingen": "2026"
   },
   {
     "AuteurNr": 1864,
@@ -24912,6 +25208,14 @@
     "Opmerkingen": "2025 - Debuut"
   },
   {
+    "AuteurNr": 3340,
+    "Auteurnaam": "Kessler Verena",
+    "Nationaliteit": "Duits",
+    "Boektitel": "De gym",
+    "Gelezen": 0,
+    "Opmerkingen": "2026"
+  },
+  {
     "AuteurNr": 983,
     "Auteurnaam": "Keteleer Hilde",
     "Nationaliteit": "Vlaams",
@@ -24942,6 +25246,14 @@
     "Boektitel": "Kind van alle landen",
     "Gelezen": 0,
     "Opmerkingen": "2016"
+  },
+  {
+    "AuteurNr": 3360,
+    "Auteurnaam": "Keunen Bart",
+    "Nationaliteit": "Vlaams",
+    "Boektitel": "Een reis door de Europese litteratuur",
+    "Gelezen": 0,
+    "Opmerkingen": "2026"
   },
   {
     "AuteurNr": 2074,
@@ -25262,6 +25574,14 @@
     "Boektitel": "Dubbelganger",
     "Gelezen": 0,
     "Opmerkingen": "2023"
+  },
+  {
+    "AuteurNr": 2772,
+    "Auteurnaam": "Klein Naomi",
+    "Nationaliteit": "Canadees",
+    "Boektitel": "Eindtijdfacisme",
+    "Gelezen": 0,
+    "Opmerkingen": "2026 - Co-auteur Astra Taylor"
   },
   {
     "AuteurNr": 2772,
@@ -26134,6 +26454,14 @@
     "Boektitel": "Totaal witte kamer",
     "Gelezen": 0,
     "Opmerkingen": "Beste boeken top 100"
+  },
+  {
+    "AuteurNr": 2259,
+    "Auteurnaam": "Kovach Carla",
+    "Nationaliteit": "Brits",
+    "Boektitel": "De vrouw van mijn echtgenoot",
+    "Gelezen": 0,
+    "Opmerkingen": "2026 - Thriller"
   },
   {
     "AuteurNr": 2259,
@@ -27659,6 +27987,22 @@
     "AuteurNr": 1474,
     "Auteurnaam": "Le Guin Ursula K.",
     "Nationaliteit": "Amerikaans",
+    "Boektitel": "De ontheemde",
+    "Gelezen": 0,
+    "Opmerkingen": "1974 - Science fiction"
+  },
+  {
+    "AuteurNr": 1474,
+    "Auteurnaam": "Le Guin Ursula K.",
+    "Nationaliteit": "Amerikaans",
+    "Boektitel": "De ontheemde",
+    "Gelezen": 0,
+    "Opmerkingen": "1974 - Science fiction"
+  },
+  {
+    "AuteurNr": 1474,
+    "Auteurnaam": "Le Guin Ursula K.",
+    "Nationaliteit": "Amerikaans",
     "Boektitel": "Duisters linkerhand",
     "Gelezen": 0,
     "Opmerkingen": "1969"
@@ -27734,6 +28078,14 @@
     "Boektitel": "Overgave",
     "Gelezen": 0,
     "Opmerkingen": "Boekenmagazine GVA - November 2010"
+  },
+  {
+    "AuteurNr": 1653,
+    "Auteurnaam": "Lee Jin Min",
+    "Nationaliteit": "Zuid-Koreaans",
+    "Boektitel": "American Hagwon",
+    "Gelezen": 0,
+    "Opmerkingen": "2026"
   },
   {
     "AuteurNr": 1653,
@@ -27990,6 +28342,14 @@
     "Boektitel": "Fansi\u0027s stilte",
     "Gelezen": 0,
     "Opmerkingen": {}
+  },
+  {
+    "AuteurNr": 3328,
+    "Auteurnaam": "Levi Allen",
+    "Nationaliteit": "Amerikaans",
+    "Boektitel": "Theo in Golden",
+    "Gelezen": 0,
+    "Opmerkingen": "2026"
   },
   {
     "AuteurNr": 2022,
@@ -28536,6 +28896,14 @@
     "Opmerkingen": "De Morgen 01/07/2009"
   },
   {
+    "AuteurNr": 3333,
+    "Auteurnaam": "Loolk Kairi",
+    "Nationaliteit": "Estland",
+    "Boektitel": "Dans het stof uit de vloer",
+    "Gelezen": 0,
+    "Opmerkingen": "2026"
+  },
+  {
     "AuteurNr": 2751,
     "Auteurnaam": "Loontjens Jannah",
     "Nationaliteit": "Deens",
@@ -28648,6 +29016,14 @@
     "Opmerkingen": ""
   },
   {
+    "AuteurNr": 3321,
+    "Auteurnaam": "Lovrenski Oliver",
+    "Nationaliteit": "Noors-Kroatisch",
+    "Boektitel": "Toen we nog jong waren",
+    "Gelezen": 0,
+    "Opmerkingen": "2026"
+  },
+  {
     "AuteurNr": 2257,
     "Auteurnaam": "Lower Wendy",
     "Nationaliteit": "Amerikaans",
@@ -28731,6 +29107,14 @@
     "AuteurNr": 875,
     "Auteurnaam": "Luiselli Valeria",
     "Nationaliteit": "Mexicaans",
+    "Boektitel": "Begin midden einde",
+    "Gelezen": 0,
+    "Opmerkingen": "2026"
+  },
+  {
+    "AuteurNr": 875,
+    "Auteurnaam": "Luiselli Valeria",
+    "Nationaliteit": "Mexicaans",
     "Boektitel": "De gewichtlozen",
     "Gelezen": 0,
     "Opmerkingen": "Boek van het jaar 2012 - medewerker GVA"
@@ -28766,6 +29150,14 @@
     "Boektitel": "Hoe ik probeerde een goed mens te zijn",
     "Gelezen": 0,
     "Opmerkingen": ""
+  },
+  {
+    "AuteurNr": 3362,
+    "Auteurnaam": "Lutz Deborah",
+    "Nationaliteit": "Amerikaans",
+    "Boektitel": "Emily Bront\u00EB. Een leven",
+    "Gelezen": 0,
+    "Opmerkingen": "2026"
   },
   {
     "AuteurNr": 1728,
@@ -29206,6 +29598,14 @@
     "Boektitel": "De Perzen",
     "Gelezen": 0,
     "Opmerkingen": "2025 - Debuut - Hoe de Iraanse revolutie van 1979 het leven van 5 vrouwen veranderde."
+  },
+  {
+    "AuteurNr": 3356,
+    "Auteurnaam": "Maia Ana Paula",
+    "Nationaliteit": "Braziliaans",
+    "Boektitel": "Op de aarde, onder de aarde",
+    "Gelezen": 0,
+    "Opmerkingen": "2026 - Horror"
   },
   {
     "AuteurNr": 2501,
@@ -30014,6 +30414,14 @@
     "Boektitel": "De toekomst van geografie",
     "Gelezen": 0,
     "Opmerkingen": "2024"
+  },
+  {
+    "AuteurNr": 1964,
+    "Auteurnaam": "Marsman Lieke",
+    "Nationaliteit": "Nederlands",
+    "Boektitel": "De dichter en de duivel",
+    "Gelezen": 0,
+    "Opmerkingen": "2026"
   },
   {
     "AuteurNr": 1964,
@@ -31059,6 +31467,14 @@
     "AuteurNr": 2086,
     "Auteurnaam": "Meijer Eva",
     "Nationaliteit": "Nederlands",
+    "Boektitel": "Een woord voor",
+    "Gelezen": 0,
+    "Opmerkingen": "2026"
+  },
+  {
+    "AuteurNr": 2086,
+    "Auteurnaam": "Meijer Eva",
+    "Nationaliteit": "Nederlands",
     "Boektitel": "Muizenleven",
     "Gelezen": 0,
     "Opmerkingen": "2025 - Proefdierenindustrie"
@@ -31784,6 +32200,14 @@
     "Opmerkingen": ""
   },
   {
+    "AuteurNr": 2512,
+    "Auteurnaam": "Miller Madeline",
+    "Nationaliteit": "Amerikaans",
+    "Boektitel": "Mestra",
+    "Gelezen": 0,
+    "Opmerkingen": "2026"
+  },
+  {
     "AuteurNr": 1265,
     "Auteurnaam": "Millet Catherine",
     "Nationaliteit": "Frans",
@@ -32107,6 +32531,14 @@
     "AuteurNr": 1263,
     "Auteurnaam": "Modiano Patrick",
     "Nationaliteit": "Frans",
+    "Boektitel": "In het caf\u00E9 van de verloren jeugd",
+    "Gelezen": 0,
+    "Opmerkingen": "2026"
+  },
+  {
+    "AuteurNr": 1263,
+    "Auteurnaam": "Modiano Patrick",
+    "Nationaliteit": "Frans",
     "Boektitel": "Kleedkamer in kindertijd",
     "Gelezen": 0,
     "Opmerkingen": "4*"
@@ -32350,14 +32782,6 @@
     "Boektitel": "The end of power",
     "Gelezen": 0,
     "Opmerkingen": {}
-  },
-  {
-    "AuteurNr": 2075,
-    "Auteurnaam": "Mokeddem Malika",
-    "Nationaliteit": "Algerijns",
-    "Boektitel": "De ontheemde",
-    "Gelezen": 0,
-    "Opmerkingen": ""
   },
   {
     "AuteurNr": 2731,
@@ -32646,6 +33070,14 @@
     "Boektitel": "Agostino",
     "Gelezen": 0,
     "Opmerkingen": "1944"
+  },
+  {
+    "AuteurNr": 3329,
+    "Auteurnaam": "Moreels R\u00E9ginald",
+    "Nationaliteit": "Vlaams",
+    "Boektitel": "Het was mijn verdomde plicht",
+    "Gelezen": 0,
+    "Opmerkingen": "2026"
   },
   {
     "AuteurNr": 2128,
@@ -33814,6 +34246,14 @@
     "Boektitel": "Het verhaal van de kat die boeken wilde redden",
     "Gelezen": -1,
     "Opmerkingen": "2020"
+  },
+  {
+    "AuteurNr": 3350,
+    "Auteurnaam": "Natsuki Shizuko",
+    "Nationaliteit": "Japans",
+    "Boektitel": "Moord aan de voet van Mount Fuji",
+    "Gelezen": 0,
+    "Opmerkingen": "2026 - Thriller"
   },
   {
     "AuteurNr": 2025,
@@ -35928,6 +36368,14 @@
     "Opmerkingen": "De Morgen 13/01/2010 - Boek.be - Litteraire lente 2010"
   },
   {
+    "AuteurNr": 3345,
+    "Auteurnaam": "Osterdahl Martin",
+    "Nationaliteit": "Zweeds",
+    "Boektitel": "Het kreefendiner",
+    "Gelezen": 0,
+    "Opmerkingen": "2026 - Thriller"
+  },
+  {
     "AuteurNr": 1060,
     "Auteurnaam": "Oswald James",
     "Nationaliteit": "Brits",
@@ -36446,14 +36894,6 @@
     "Boektitel": "Meneer Cevdet en zijn zijn zonen",
     "Gelezen": 0,
     "Opmerkingen": "1982 - Debuut"
-  },
-  {
-    "AuteurNr": 255,
-    "Auteurnaam": "Pamuk Orhan",
-    "Nationaliteit": "Turks",
-    "Boektitel": "Sneeuw",
-    "Gelezen": 0,
-    "Opmerkingen": ""
   },
   {
     "AuteurNr": 255,
@@ -37611,6 +38051,14 @@
     "AuteurNr": 272,
     "Auteurnaam": "Pfeijffer Ilja Leonard",
     "Nationaliteit": "Nederlands",
+    "Boektitel": "De toekomst van de litteratuur",
+    "Gelezen": 0,
+    "Opmerkingen": "2026"
+  },
+  {
+    "AuteurNr": 272,
+    "Auteurnaam": "Pfeijffer Ilja Leonard",
+    "Nationaliteit": "Nederlands",
     "Boektitel": "Filosofie van de heuvel",
     "Gelezen": 0,
     "Opmerkingen": "De Morgen 13/01/2010"
@@ -37862,6 +38310,14 @@
     "Boektitel": "Het naakte leven",
     "Gelezen": 0,
     "Opmerkingen": ""
+  },
+  {
+    "AuteurNr": 2385,
+    "Auteurnaam": "Pirandello Luigi",
+    "Nationaliteit": "Italiaans",
+    "Boektitel": "Iemand, niemand en honderdduizend",
+    "Gelezen": 0,
+    "Opmerkingen": "2026"
   },
   {
     "AuteurNr": 2951,
@@ -38160,6 +38616,14 @@
     "Opmerkingen": "2019 - BNG Bank Litteratuurprijs"
   },
   {
+    "AuteurNr": 1914,
+    "Auteurnaam": "Polak Nina",
+    "Nationaliteit": "Nederlands",
+    "Boektitel": "Moderne gekte",
+    "Gelezen": 0,
+    "Opmerkingen": "2026"
+  },
+  {
     "AuteurNr": 1067,
     "Auteurnaam": "Polet Sybren",
     "Nationaliteit": "Nederlands",
@@ -38446,6 +38910,14 @@
     "Boektitel": "Vijf",
     "Gelezen": 0,
     "Opmerkingen": "2015 - Detective"
+  },
+  {
+    "AuteurNr": 2433,
+    "Auteurnaam": "Pratchett Terry",
+    "Nationaliteit": "Brits",
+    "Boektitel": "Kleingoderij",
+    "Gelezen": 0,
+    "Opmerkingen": "Fantasy"
   },
   {
     "AuteurNr": 2433,
@@ -38990,6 +39462,14 @@
     "Boektitel": "Het geheugen van de oceaan",
     "Gelezen": -1,
     "Opmerkingen": "2025"
+  },
+  {
+    "AuteurNr": 3352,
+    "Auteurnaam": "Ravatn Agnes",
+    "Nationaliteit": "Noors",
+    "Boektitel": "Het vogeltribunaal",
+    "Gelezen": 0,
+    "Opmerkingen": "2026 - Thriller"
   },
   {
     "AuteurNr": 2354,
@@ -39574,6 +40054,14 @@
     "Boektitel": "Willem Elsschot in Parijs",
     "Gelezen": 0,
     "Opmerkingen": "2022"
+  },
+  {
+    "AuteurNr": 3331,
+    "Auteurnaam": "Rio M.L.",
+    "Nationaliteit": "Amerikaans",
+    "Boektitel": "Als wij schurken waren",
+    "Gelezen": 0,
+    "Opmerkingen": "2026"
   },
   {
     "AuteurNr": 2618,
@@ -41344,6 +41832,22 @@
     "Opmerkingen": "De Morgen 14/10/2015"
   },
   {
+    "AuteurNr": 3336,
+    "Auteurnaam": "Sanderson Brandon",
+    "Nationaliteit": "Amerikaans",
+    "Boektitel": "Het laatste rijk",
+    "Gelezen": 0,
+    "Opmerkingen": "2006 - Fantasy"
+  },
+  {
+    "AuteurNr": 2443,
+    "Auteurnaam": "Sandgren Lydia",
+    "Nationaliteit": "Zweeds",
+    "Boektitel": "Overleving van de soort",
+    "Gelezen": 0,
+    "Opmerkingen": "2026"
+  },
+  {
     "AuteurNr": 2443,
     "Auteurnaam": "Sandgren Lydia",
     "Nationaliteit": "Zweeds",
@@ -42115,6 +42619,14 @@
     "AuteurNr": 1335,
     "Auteurnaam": "Schr\u00F6der Allard",
     "Nationaliteit": "Nederlands",
+    "Boektitel": "Dood en leven van de jonge Selder",
+    "Gelezen": 0,
+    "Opmerkingen": "2026"
+  },
+  {
+    "AuteurNr": 1335,
+    "Auteurnaam": "Schr\u00F6der Allard",
+    "Nationaliteit": "Nederlands",
     "Boektitel": "Sebastiaans neus",
     "Gelezen": 0,
     "Opmerkingen": "2016"
@@ -42294,6 +42806,14 @@
     "Boektitel": "M. Het uur van de waarheid",
     "Gelezen": 0,
     "Opmerkingen": "2025 - Deel 4 romantrilogie over Mussolini"
+  },
+  {
+    "AuteurNr": 3339,
+    "Auteurnaam": "Se-hee Baek",
+    "Nationaliteit": "Zuid-Koreaans",
+    "Boektitel": "Ik wil nog steeds dood maar eerst een bord tteokbokk",
+    "Gelezen": 0,
+    "Opmerkingen": "2026"
   },
   {
     "AuteurNr": 185,
@@ -42547,9 +43067,25 @@
     "AuteurNr": 2673,
     "Auteurnaam": "Sern\u00E9 Ananda",
     "Nationaliteit": "Nederlands",
+    "Boektitel": "Ijsberenprotocol",
+    "Gelezen": 0,
+    "Opmerkingen": "2026"
+  },
+  {
+    "AuteurNr": 2673,
+    "Auteurnaam": "Sern\u00E9 Ananda",
+    "Nationaliteit": "Nederlands",
     "Boektitel": "Nachtbloeiers",
     "Gelezen": 0,
     "Opmerkingen": "2022 - Debuut"
+  },
+  {
+    "AuteurNr": 3109,
+    "Auteurnaam": "Serrano Beatriz",
+    "Nationaliteit": "Spaans",
+    "Boektitel": "Het mirakel",
+    "Gelezen": 0,
+    "Opmerkingen": "2026"
   },
   {
     "AuteurNr": 3109,
@@ -42566,6 +43102,14 @@
     "Boektitel": "De laatste getuige - Hoe ik Breendonk en Buchenwald overleefde",
     "Gelezen": 0,
     "Opmerkingen": "2019 - WOII - 4*"
+  },
+  {
+    "AuteurNr": 951,
+    "Auteurnaam": "Serrien Pieter",
+    "Nationaliteit": "Vlaams",
+    "Boektitel": "Het verloren land",
+    "Gelezen": 0,
+    "Opmerkingen": "2026"
   },
   {
     "AuteurNr": 951,
@@ -42606,6 +43150,14 @@
     "Boektitel": "10 minuten 38 seconden in deze vreemde wereld",
     "Gelezen": 0,
     "Opmerkingen": "2019 - over een prostituee in Turkije"
+  },
+  {
+    "AuteurNr": 1495,
+    "Auteurnaam": "Shafak Elif",
+    "Nationaliteit": "Turks",
+    "Boektitel": "De eeuwigheid in een kort moment",
+    "Gelezen": 0,
+    "Opmerkingen": "2026"
   },
   {
     "AuteurNr": 1495,
@@ -42824,6 +43376,14 @@
     "Opmerkingen": "2023"
   },
   {
+    "AuteurNr": 2742,
+    "Auteurnaam": "Shibli Adania",
+    "Nationaliteit": "Palestijns",
+    "Boektitel": "Misleiding",
+    "Gelezen": 0,
+    "Opmerkingen": "2026"
+  },
+  {
     "AuteurNr": 2366,
     "Auteurnaam": "Shinkay Makoto \u0026 Nagakawa Naruki",
     "Nationaliteit": "Japans",
@@ -42926,6 +43486,54 @@
     "Boektitel": "Klein mislukkeling",
     "Gelezen": 0,
     "Opmerkingen": {}
+  },
+  {
+    "AuteurNr": 3342,
+    "Auteurnaam": "Shuang-zi Yang",
+    "Nationaliteit": "Taiwanees",
+    "Boektitel": "Aan tafel! ",
+    "Gelezen": 0,
+    "Opmerkingen": "2021 - De culinaire verkenning van een historisch romanschrijver"
+  },
+  {
+    "AuteurNr": 3342,
+    "Auteurnaam": "Shuang-zi Yang",
+    "Nationaliteit": "Taiwanees",
+    "Boektitel": "Bloeiende meisjes vn Formosa",
+    "Gelezen": 0,
+    "Opmerkingen": "2018"
+  },
+  {
+    "AuteurNr": 3342,
+    "Auteurnaam": "Shuang-zi Yang",
+    "Nationaliteit": "Taiwanees",
+    "Boektitel": "De maanvisser",
+    "Gelezen": 0,
+    "Opmerkingen": "2016"
+  },
+  {
+    "AuteurNr": 3342,
+    "Auteurnaam": "Shuang-zi Yang",
+    "Nationaliteit": "Taiwanees",
+    "Boektitel": "Reisdagboek Taiwan",
+    "Gelezen": 0,
+    "Opmerkingen": "2020"
+  },
+  {
+    "AuteurNr": 3342,
+    "Auteurnaam": "Shuang-zi Yang",
+    "Nationaliteit": "Taiwanees",
+    "Boektitel": "Seizoen van bloei",
+    "Gelezen": 0,
+    "Opmerkingen": "2017"
+  },
+  {
+    "AuteurNr": 3342,
+    "Auteurnaam": "Shuang-zi Yang",
+    "Nationaliteit": "Taiwanees",
+    "Boektitel": "Siowei Straat nr.1",
+    "Gelezen": 0,
+    "Opmerkingen": "2023"
   },
   {
     "AuteurNr": 986,
@@ -43523,6 +44131,14 @@
     "AuteurNr": 1610,
     "Auteurnaam": "Slimani Leila",
     "Nationaliteit": "Frans-Marokkaans",
+    "Boektitel": "De woorden van de ander",
+    "Gelezen": 0,
+    "Opmerkingen": "2026"
+  },
+  {
+    "AuteurNr": 1610,
+    "Auteurnaam": "Slimani Leila",
+    "Nationaliteit": "Frans-Marokkaans",
     "Boektitel": "Een zachte hand",
     "Gelezen": 0,
     "Opmerkingen": "2016 - Prix Goncourt"
@@ -43958,6 +44574,14 @@
     "Boektitel": "Herinneringen aan mijn onzichtbaarheid",
     "Gelezen": 0,
     "Opmerkingen": "2022 - Memoires"
+  },
+  {
+    "AuteurNr": 1528,
+    "Auteurnaam": "Solnit Rebecca",
+    "Nationaliteit": "Amerikaans",
+    "Boektitel": "Het begin volgt op het einde",
+    "Gelezen": 0,
+    "Opmerkingen": "2026"
   },
   {
     "AuteurNr": 1528,
@@ -44590,6 +45214,14 @@
     "Boektitel": "Vertel me alles",
     "Gelezen": 0,
     "Opmerkingen": "2025"
+  },
+  {
+    "AuteurNr": 706,
+    "Auteurnaam": "Strout Elizabeth",
+    "Nationaliteit": "Amerikaans",
+    "Boektitel": "Wat ongezegd blijft",
+    "Gelezen": 0,
+    "Opmerkingen": "2026"
   },
   {
     "AuteurNr": 706,
@@ -46422,6 +47054,14 @@
     "Boektitel": "Aanrakingen",
     "Gelezen": 0,
     "Opmerkingen": "2015"
+  },
+  {
+    "AuteurNr": 1168,
+    "Auteurnaam": "Tritsmans Marc",
+    "Nationaliteit": "Vlaams",
+    "Boektitel": "Toen ik dacht dat het al voorbij was",
+    "Gelezen": 0,
+    "Opmerkingen": "2026"
   },
   {
     "AuteurNr": 1317,
@@ -52632,6 +53272,14 @@
     "Opmerkingen": "2018 - 4*"
   },
   {
+    "AuteurNr": 3327,
+    "Auteurnaam": "Walsh Colin",
+    "Nationaliteit": "Iers",
+    "Boektitel": "Kala",
+    "Gelezen": 0,
+    "Opmerkingen": "2026"
+  },
+  {
     "AuteurNr": 582,
     "Auteurnaam": "Walsh Helen",
     "Nationaliteit": "Brits",
@@ -52742,6 +53390,14 @@
     "Boektitel": "Thicker than water",
     "Gelezen": 0,
     "Opmerkingen": "2023"
+  },
+  {
+    "AuteurNr": 3359,
+    "Auteurnaam": "Wasjbrot C\u00E9cile",
+    "Nationaliteit": "Frans",
+    "Boektitel": "Nevermore",
+    "Gelezen": 0,
+    "Opmerkingen": "2026"
   },
   {
     "AuteurNr": 1038,
@@ -53160,6 +53816,14 @@
     "Opmerkingen": "De Morgen 15/05/2013"
   },
   {
+    "AuteurNr": 3357,
+    "Auteurnaam": "Wendig Chuck",
+    "Nationaliteit": "Amerikaans",
+    "Boektitel": "De trap in het bos",
+    "Gelezen": 0,
+    "Opmerkingen": "2026 - Horror"
+  },
+  {
     "AuteurNr": 1686,
     "Auteurnaam": "Wensink Herien",
     "Nationaliteit": "Nederlands",
@@ -53406,6 +54070,14 @@
     "Boektitel": "Vader",
     "Gelezen": 0,
     "Opmerkingen": ""
+  },
+  {
+    "AuteurNr": 1430,
+    "Auteurnaam": "Whitehead Colson",
+    "Nationaliteit": "Amerikaans",
+    "Boektitel": "Cool Machine",
+    "Gelezen": 0,
+    "Opmerkingen": "2026"
   },
   {
     "AuteurNr": 1430,
@@ -54382,6 +55054,14 @@
     "Boektitel": "Notities uit de jungle",
     "Gelezen": -1,
     "Opmerkingen": ""
+  },
+  {
+    "AuteurNr": 2770,
+    "Auteurnaam": "Yarros Rebecca",
+    "Nationaliteit": "Amerikaans",
+    "Boektitel": "De verkoring",
+    "Gelezen": 0,
+    "Opmerkingen": "2026"
   },
   {
     "AuteurNr": 2770,
