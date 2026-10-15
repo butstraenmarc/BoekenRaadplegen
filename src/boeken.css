@@ -87,3 +87,12 @@
     line-height: 12px;        /* exact gelijk aan font-size */
     vertical-align: top;      /* tilt de tekst omhoog */
 }
+
+.filterWissen {
+    font-size: 12px;
+    padding: 2px 6px;
+    margin-left: 70px;
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    cursor: pointer;
+}

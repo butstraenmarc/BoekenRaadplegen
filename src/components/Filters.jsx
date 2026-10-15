@@ -49,7 +49,7 @@ export default function Filters({ AantalBoeken, AantalGefilterdeBoeken, filters,
                     onChange={handleChange}
                 />
             </div>
-
+            
             <div className="filterRij">
                 <label className="filterLabel">Jaartal:</label>
                 <input className="filterInputJaartal"
@@ -59,7 +59,19 @@ export default function Filters({ AantalBoeken, AantalGefilterdeBoeken, filters,
                     value={filters.jaartal}
                     onChange={handleChange}
                 />
+                <button type="button" className="filterWissen" onClick={() => {
+                    onFilterChange({
+                        nationaliteit: '',
+                        auteurnaam: '',
+                        opmerkingen: '',
+                        jaartal: '',
+                        status: 'ALLE'
+                    });
+                }}>
+                    Filters wissen
+                </button>
             </div>
+    
             <div className="leesOpties">
                 <label>
                     <input
